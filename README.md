@@ -15,7 +15,7 @@
 
 <p align="center">
   <strong><a href="https://neerdhara.vercel.app">Live web dashboard</a></strong> ·
-  <strong><a href="https://drive.google.com/file/d/1HsmIwW-xaDNFupXgAeSIL7keLjYt5OQ2/view?usp=sharing">Android app (APK): &lt;add APK link&gt;</strong> ·
+  <strong>Android app (APK): &lt;https://drive.google.com/file/d/1HsmIwW-xaDNFupXgAeSIL7keLjYt5OQ2/view?usp=sharing&gt;</strong> ·
   <strong>Demo video: &lt;add video link&gt;</strong> ·
   <strong><a href="docs/">Docs</a></strong>
 </p>

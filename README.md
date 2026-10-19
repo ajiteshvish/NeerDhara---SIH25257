@@ -117,9 +117,12 @@ These are demo accounts with demo data only.
 
 | Name | Role |
 | --- | --- |
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
+| Anurag Jaiswal | Team Leader + Backend |
+| Ajitesh Vishwakarma | Technical Lead & Full-Stack Architect |
+| Sejal Choudhary | Frontend + UI-UX Developer |
+| Shivani Nayak | Frontend Developer |
+| Naina Modi | Presentation & Documentation |
+| Gunjan Mirchandani | Backend Developer |
 
 The source code is private. This repository holds the documentation.
 
